@@ -1,4 +1,4 @@
-# temp
+# vue_shop
 
 ## Project setup
 ```
